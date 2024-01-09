@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Functions/Functions/bin/Debug/net7.0/Functions
+/Users/carolinesund/Projects/Functions/Functions/bin/Debug/net7.0/Functions.deps.json
+/Users/carolinesund/Projects/Functions/Functions/bin/Debug/net7.0/Functions.runtimeconfig.json
+/Users/carolinesund/Projects/Functions/Functions/bin/Debug/net7.0/Functions.dll
+/Users/carolinesund/Projects/Functions/Functions/bin/Debug/net7.0/Functions.pdb
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.AssemblyInfo.cs
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.dll
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/refint/Functions.dll
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.pdb
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/Functions.genruntimeconfig.cache
+/Users/carolinesund/Projects/Functions/Functions/obj/Debug/net7.0/ref/Functions.dll

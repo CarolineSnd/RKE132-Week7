@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4BE71CE5-C724-4DD0-9FD0-713AAA7D71DF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArgumentsAndParameters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DiscountCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscountCalculator/Program.cs">
+    <Files>
+      <File FileName="Functions/Program.cs" />
+      <File FileName="ArgumentsAndParameters/Program.cs" />
+      <File FileName="Calculator/Program.cs" />
+      <File FileName="DiscountCalculator/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Functions" expanded="True">
+            <Node name="ArgumentsAndParameters" expanded="True" />
+            <Node name="DiscountCalculator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Functions" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Functions" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConvertTo FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

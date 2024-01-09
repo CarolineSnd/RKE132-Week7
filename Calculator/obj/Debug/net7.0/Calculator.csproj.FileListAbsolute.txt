@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Functions/Calculator/bin/Debug/net7.0/Calculator
+/Users/carolinesund/Projects/Functions/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/carolinesund/Projects/Functions/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/carolinesund/Projects/Functions/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/carolinesund/Projects/Functions/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/carolinesund/Projects/Functions/Calculator/obj/Debug/net7.0/ref/Calculator.dll

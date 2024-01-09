@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.AssemblyInfo.cs
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Functions/ConvertTo/bin/Debug/net7.0/ConvertTo
+/Users/carolinesund/Projects/Functions/ConvertTo/bin/Debug/net7.0/ConvertTo.deps.json
+/Users/carolinesund/Projects/Functions/ConvertTo/bin/Debug/net7.0/ConvertTo.runtimeconfig.json
+/Users/carolinesund/Projects/Functions/ConvertTo/bin/Debug/net7.0/ConvertTo.dll
+/Users/carolinesund/Projects/Functions/ConvertTo/bin/Debug/net7.0/ConvertTo.pdb
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.dll
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/refint/ConvertTo.dll
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.pdb
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ConvertTo.genruntimeconfig.cache
+/Users/carolinesund/Projects/Functions/ConvertTo/obj/Debug/net7.0/ref/ConvertTo.dll
